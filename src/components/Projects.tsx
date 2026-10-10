@@ -16,6 +16,13 @@ const projects = [
     tech: ["HTML", "CSS", "JAVASCRIPT"]
   },
   {
+    title: "Kentrix Braiders Website",
+    description: "Kentrix Braiders is a professional beauty and hair extension brand website designed to showcase premium braiding services, styling packages, and brand identity in a polished, customer-focused experience. The site highlights products and craftsmanship through a clean, responsive layout that builds trust and encourages bookings.",
+    image: "kentrix-braiders.png",
+    link: "https://kentrix-braiders.netlify.app/",
+    tech: ["Next.js", "Tailwind CSS", "Responsive UI", "Brand Design"]
+  },
+  {
     title: "Fergriculture Limited website",
     description: "A website I created for Fergriculture Company.",
     image: "fergriculture-website.png", // Placeholder for Weather Dashboard
@@ -30,11 +37,25 @@ const projects = [
     tech: ["Next.js", "Tailwind CSS", "Leaflet"]
   },
   {
-    title: "TakeOver at the Summit Live Stream App",
-    description: "A Live stream web app for TakeOver at the Summit event.",
-    image: "TakeOver.png", // Placeholder for Weather Dashboard
-    link: "https://takeoverthesummit2025.netlify.app/",
-    tech: ["Next.js", "Tailwind CSS", "Iframer"]
+    title: "Hustle OS Website Template",
+    description: "A modern, conversion-focused website template designed for ambitious startups and digital brands. It presents products, services, and value propositions through a clean, professional layout tailored to attract attention and drive engagement. Hustle OS connects Manufacturers, Sellers and Consumers in a seamless didgital ecosystem, fostering growth and collaboration.",
+    image: "hustleos.png", // Placeholder for Weather Dashboard
+    link: "https://hustle-os-three.vercel.app/welcome",
+    tech: ["TypeScript", "Tailwind CSS", "Framer Motion"]
+  },
+  {
+    title: "NewGas Website Template",
+    description: "NewGas is a modern gas and energy company helping households and businesses access reliable, efficient, and safe energy solutions. The web app features service overview, product showcases, contact forms, FAQs, company trust sections, and responsive layouts to drive customer engagement and conversions.",
+    image: "New-Gas.png",
+    link: "https://new-gas.vercel.app/",
+    tech: ["Next.js", "Tailwind CSS", "React", "Responsive UI"]
+  },
+  {
+    title: "Root & Spice Website Template",
+    description: "Root & Spice is a premium restaurant website template designed for modern food brands, cafes, and culinary businesses. It showcases signature dishes, menu categories, brand story, and reservation calls-to-action in an elegant, mobile-responsive layout that elevates customer experience and drives engagement.",
+    image: "root&spice.png",
+    link: "https://kentrixrootandspice.netlify.app/",
+    tech: ["Next.js", "Tailwind CSS", "GSAP", "Responsive Design"]
   },
   {
     title: "YanGa Design Portfolio",
